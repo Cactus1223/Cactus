@@ -1,0 +1,207 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    background-color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    margin: 20px auto;
+    position: relative;
+}
+
+
+.titulo {
+    font-size: 28px;
+    font-weight: bold;
+    color: #d32f2f;
+    background: white;
+    padding: 10px;
+    display: inline-block;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    position: relative;
+    border-radius: 10px;
+}
+
+
+.mario {
+    position: absolute;
+    top: -30px;
+    left: 170px;
+    width: 150px;
+    z-index: -1; 
+}
+
+
+.caja {
+    width: 450px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    position: relative;
+}
+.caja2 {
+    width: 500px;
+    right: -350px;
+    top: 40px;
+
+}
+
+
+.link {
+    position: absolute;
+    right: -370px;
+    top: -80px;
+    width: 200px;
+}
+
+
+.samus {
+    position: absolute;
+    left: -300px;
+    bottom: -80px;
+    width: 200px;
+}
+
+.pikachu {
+    position: absolute;
+    right: -150px;
+    bottom: -110px;
+    width: 200px;
+}
+
+.caja3 {
+    background: white;
+    top: 130px;
+    width: 500px;
+}
+
+.luigi {
+    position: absolute;
+    top: -20px;
+    right: -250px;
+    width: 150px;
+}
+
+.donkey {
+    position: absolute; bottom: -200px;
+    right: 10px;
+    width: 200px;
+}
+.contenedor12 {
+    position: relative;
+}
+
+.text1 {
+    position: absolute; 
+    top: 370px; /* Mueve el texto hacia abajo */
+    width: 450px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.titulo12 {
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background: #E60012;
+    padding: 10px;
+    display: inline-block;
+    position: relative; bottom: -330px; right: -200px;
+    border-radius: 10px;
+    z-index: 2;
+
+}
+
+.resaltado { color: red; font-weight: bold; }
+.zelda { color: green; font-weight: bold; }
+.pokemon { color: goldenrod; font-weight: bold; }
+.dk { color: brown; font-weight: bold; }
+body {
+    width: 1200px; 
+}
+body {
+    min-height: 200vh; 
+}
+.Nintendo14 {
+    position: absolute;
+    bottom: -372px;
+    width: 100%;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.texto143 {
+    position: absolute; 
+    top: 550px; 
+    left: 520px;
+    width: 450px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.ConsolasNin {
+    position: absolute;
+    bottom: -1300px;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+
+}
+.Nes {
+    position: absolute;
+    bottom: -689px;
+    width: 300px;
+
+}
+.Texto87 {
+    position: absolute; 
+    top: 750px; 
+    left: 250px;
+    width: 450px;
+    padding: 15px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.Wii {
+    position: absolute;
+    width: 200px;
+    bottom: -569px;
+    left: 600px;
+}
+.barranin2 {
+    position: absolute;
+    bottom: -1500px;
+    width: 100%;
+    right: 1px;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
+.Titulo90 {
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    background: #E60012;
+    padding: 10px;
+    display: inline-block;
+    position: absolute; bottom: -1457px; right: 500px;
+    border-radius: 10px;
+    z-index: 2;
+}
+.Supermario {
+    font-size: 36px;
+    font-weight: bold;
+    color: #E60012;
+    background: white;
+    padding: 10px;
+    display: inline-block;
+    position: absolute; bottom: -1600px; right: 679.5px;
+    border-radius: 10px;
+    z-index: 2;
+    box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.2);
+}
